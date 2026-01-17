@@ -1,5 +1,7 @@
-## 👋 Olá, eu sou o Luiz Jr
+## 👋 Olá, me chamo Luiz
 
-🎯 Focado em **Análise de Dados**
+🎯 **Análise de Dados | Power BI | Excel | Python | SQL**
+
 📊 Estudando e desenvolvendo projetos com **Excel, Power BI, SQL e Python**
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (último semestre)
+
+🎓 Engenharia de Software
